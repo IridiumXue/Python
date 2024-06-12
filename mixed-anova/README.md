@@ -1,4 +1,5 @@
 1.The dataset is obtained from the CO2 dataset in the base R package.
+
 2.Carbon Dioxide Uptake in Grass Plants
 
 Description
@@ -26,5 +27,3 @@ a numeric vector of carbon dioxide uptake rates
 
 Details
 The CO2 uptake of six plants from Quebec and six plants from Mississippi was measured at several levels of ambient CO2 concentration. Half the plants of each type were chilled overnight before the experiment was conducted.
-
-This dataset was originally part of package nlme, and that has methods (including for [, as.data.frame, plot and print) for its grouped-data classes.
