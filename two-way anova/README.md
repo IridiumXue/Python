@@ -1,6 +1,6 @@
-The dataset is obtained from the ToothGrowth dataset in the base R package.
+1.The dataset is obtained from the ToothGrowth dataset in the base R package.
 
-The Effect of Vitamin C on Tooth Growth in Guinea Pigs
+2.The Effect of Vitamin C on Tooth Growth in Guinea Pigs
 
 Description
 
