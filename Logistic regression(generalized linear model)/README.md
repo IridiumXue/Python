@@ -1,5 +1,7 @@
 1.Variable encoding, logit transformation, maximum likelihood estimation, model goodness of fit test
+
 2.The dataset is obtained from the ICU dataset in the R package (vcdExtra)
+
 3.ICU data set
 Description
 
